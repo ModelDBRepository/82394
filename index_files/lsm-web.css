@@ -1,0 +1,50 @@
+BODY { background: white; font-family: helvetica; font-size: 14px }
+H1 { font-size: 24px; color: #1a3a5d; font-weight: bold; }
+H1.first { font-size: 24px;  margin-top: 1em; color: #1a3a5d}
+H2 { font-size: 16px;  color: #1a3a5d; }
+H3 { font-size: 12px;  color: #1a3a5d; }
+
+tt { font-weight: normal; }
+
+table.menu { }
+
+TD.menu { color: white; background: black; font-weight: bold;  font-size: 12px; padding: 2px; }
+TD.menu:hover { color: white; background: #aaaaaa; font-weight: bold;  font-size: 12px }
+TD.menu_active { color: white;  background: #4586c7;  font-weight: bold;   font-size: 12px; padding: 2px;}
+A.menu { color: white; text-decoration: none; }
+
+TD.menu1 { color: white; background: #555555; font-weight: bold;  font-size: 10px }
+TD.menu1:hover { color: white; background: #aaaaaa; font-weight: bold;  font-size: 10px }
+TD.menu1_active { color: white;  background: #4586c7;  font-weight: bold;   font-size: 10px }
+A.menu1 { color: white; text-decoration: none; }
+
+TD.csim_navigation { color: white; background: #6fc2ff;  padding: 2px; }
+TABLE.csim_navigattion { color: white; background: #6fc2ff; }
+TR.csim_navigattion { color: white; background: #6fc2ff; }
+A.csim_navigattion { color: white; background: #6fc2ff; }
+
+span.math { font-family: times; font-style: italic; font-size: 120%}
+
+span.bibtitle { color: darkblue}
+a.bibtitle    { color: blue}
+
+P { margin-left: 2em; margin-right: 4em }
+
+ol.algorithm { color: black; margin-left: 5em; margin-right: 7em; background: #eeeeee; padding: 2em }
+
+p.caption { margin-left: 2em; font-size: 12px }
+
+li { margin-top: 0.5em }
+
+a { text-decoration: none; }
+
+td.tail { font-size: 70%; }
+
+ul.fancy { list-style-image: url (./resources/it.gif) }
+
+TR.people_head { color: white; background: #4586c7; }
+TD.people_head { color: white; background: #4586c7; padding: 5px; }
+A.people_head { color: white; text-decoration: none; font-weight: bold; }
+TR.people_odd { background: #ffffff; }
+TR.people_even { background: #dddddd; }
+
